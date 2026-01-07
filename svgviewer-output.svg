@@ -1,0 +1,133 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip"><rect width="80" height="80"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <g>
+      <!-- JS -->
+      <rect x="10" y="10" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="15" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+
+      <!-- TS -->
+      <rect x="10" y="90" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="95" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+
+      <!-- React -->
+      <rect x="10" y="170" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="175" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+
+      <!-- Node -->
+      <rect x="10" y="250" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="255" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+
+      <!-- Next.js -->
+      <rect x="10" y="330" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="335" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+
+      <!-- Tailwind -->
+      <rect x="10" y="410" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="415" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
+
+      <!-- WordPress -->
+      <rect x="10" y="490" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="495" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"/>
+
+      <!-- Vue -->
+      <rect x="10" y="570" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="575" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
+
+      <!-- Angular -->
+      <rect x="10" y="650" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="655" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+
+      <!-- HTML5 -->
+      <rect x="10" y="730" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="735" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+
+      <!-- CSS3 -->
+      <rect x="10" y="810" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="815" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+
+      <!-- SASS -->
+      <rect x="10" y="890" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="895" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+
+      <!-- Redux -->
+      <rect x="10" y="970" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="975" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+
+      <!-- Git -->
+      <rect x="10" y="1050" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="1055" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+
+      <!-- GitHub -->
+      <rect x="10" y="1130" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="1135" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+
+      <!-- Docker -->
+      <rect x="10" y="1210" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="1215" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+
+      <!-- Firebase -->
+      <rect x="10" y="1290" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="1295" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
+
+      <!-- Figma -->
+      <rect x="10" y="1370" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="1375" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+
+      <!-- Дубликат первой иконки (JS) для бесшовного цикла -->
+      <rect x="10" y="1450" width="60" height="60" rx="12" ry="12" fill="#FF69B4"/>
+      <image x="15" y="1455" width="50" height="50"
+             href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+
+      <!-- Анимация с паузой ~2 сек на каждую иконку -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        dur="80s"
+        repeatCount="indefinite"
+        values="
+          0 0;0 0;
+          0 -80;0 -80;
+          0 -160;0 -160;
+          0 -240;0 -240;
+          0 -320;0 -320;
+          0 -400;0 -400;
+          0 -480;0 -480;
+          0 -560;0 -560;
+          0 -640;0 -640;
+          0 -720;0 -720;
+          0 -800;0 -800;
+          0 -880;0 -880;
+          0 -960;0 -960;
+          0 -1040;0 -1040;
+          0 -1120;0 -1120;
+          0 -1200;0 -1200;
+          0 -1280;0 -1280;
+          0 -1360;0 -1360;
+          0 -1440;0 -1440
+        "
+      />
+    </g>
+  </g>
+</svg>
